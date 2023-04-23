@@ -1,7 +1,7 @@
 ---
 title: 通过 Cloudflare 和 acme.sh 开源脚本，实现申请 ssl 证书加免费续期
 date: 2023-03-20
-author: <author_id>
+author: liyanan
 categories: [工具]
 tags: [ssl]
 ---
