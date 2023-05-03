@@ -4,8 +4,6 @@ title: SpringBoot 快速集成 Shiro
 
 date: 2023-05-03
 
-author: liyanan
-
 categories: [SpringBoot,Shiro]
 
 tags: [SpringBoot,Shiro]

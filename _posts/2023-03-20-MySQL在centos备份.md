@@ -1,7 +1,6 @@
 ---
 title: MySQL 在 centos 上备份
 date: 2023-03-20
-author: liyanan
 categories: [shell脚本]
 tags: [MySQL备份,shell 脚本]
 ---
